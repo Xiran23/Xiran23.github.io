@@ -16,15 +16,7 @@ https://github.com/user-attachments/assets/5f083249-ede6-4e77-b0b2-38f5209ca32d
 
 ![Demo](https://github.com/user-attachments/assets/5f1b1d06-c241-4928-a0fb-f8522df2e79a)
 
-[!
-
-
-https://github.com/user-attachments/assets/b39c5c2a-72d2-4324-8452-2ef7fb4df918
-
-
-
-
-[Portfolio Website Demo]
+[!Portfolio Website Demo]
 
 ## Installation
 
