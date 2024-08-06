@@ -11,7 +11,11 @@ Welcome to my portfolio website! This site showcases my projects, skills, and ex
 
 ## Demo
 
-[![Portfolio Website Demo][![Portfolio Website Demo](https://i.vimeocdn.com/video/995463726_640.jpg)](https://vimeo.com/995463726)
+[!
+
+https://github.com/user-attachments/assets/fcb167ee-7f78-428a-a178-fe5ee1888458
+
+[Portfolio Website Demo]
 
 ## Installation
 
@@ -43,7 +47,7 @@ If you have any suggestions or find any issues, please feel free to open an issu
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under Chiran Raj Thapa
 
 ---
 
