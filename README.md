@@ -37,7 +37,7 @@ To run this website locally, follow these steps
     ```
 2. Navigate to the project directory:
     ```bash
-    cd your-portfolio
+    cd portfolio-Web_app
     ```
 3. Open `index.html` in your browser:
     ```bash
